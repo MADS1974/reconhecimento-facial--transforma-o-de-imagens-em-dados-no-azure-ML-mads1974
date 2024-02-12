@@ -10,7 +10,7 @@
   <a href="https://ml.azure.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
-## Reconhecimento Facial e transformação de imagens em Dados no Azure ML by Mads1974
+## Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 ### **Descrição Geral**
 
