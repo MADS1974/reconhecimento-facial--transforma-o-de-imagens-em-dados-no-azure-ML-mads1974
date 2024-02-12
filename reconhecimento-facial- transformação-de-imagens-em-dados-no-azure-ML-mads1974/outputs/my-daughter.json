@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "2daec20c-51c2-48d2-b8bd-034a2d0f6d38",
+    "content-length": "154",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a girl posing for a picture",
+      "confidence": 0.794922411441803
+    },
+    "metadata": {
+      "width": 777,
+      "height": 1177
+    }
+  }
